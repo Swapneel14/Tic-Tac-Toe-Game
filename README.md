@@ -10,4 +10,5 @@ Players can play the game directly in the browser, with a clean, responsive inte
 - Responsive UI to fit different screen sizes.
 - Simple and user-friendly interface.
 ## Installation
- git clone https://github.com/Swapneel14/tic-tac-toe.git
+ git clone https://github.com/Swapneel14/Tic-Tac-Toe-Game.git
+
