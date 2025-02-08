@@ -5,10 +5,10 @@ Players can play the game directly in the browser, with a clean, responsive inte
 
 ## Features
 
-- Two-player gameplay (Player 1: X, Player 2: O).
-- Basic game mechanics (turns, win/loss detection, draw detection).  
+- Two-player gameplay (Player 1: X, Player 2: O).🎮
+- Basic game mechanics (turns, win/loss detection, draw detection).💻
 - Responsive UI to fit different screen sizes.
-- Simple and user-friendly interface.
+- Simple and user-friendly interface.😃
 ## Installation
  git clone https://github.com/Swapneel14/Tic-Tac-Toe-Game.git
 
