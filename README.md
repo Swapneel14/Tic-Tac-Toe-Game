@@ -11,4 +11,6 @@ Players can play the game directly in the browser, with a clean, responsive inte
 - Simple and user-friendly interface.😃
 ## Installation
  git clone https://github.com/Swapneel14/Tic-Tac-Toe-Game.git
+## Try Now:-
 
+https://swapneel14.github.io/Tic-Tac-Toe-Game/
