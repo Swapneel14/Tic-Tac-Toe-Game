@@ -6,7 +6,7 @@ Players can play the game directly in the browser, with a clean, responsive inte
 ## Features
 
 - Two-player gameplay (Player 1: X, Player 2: O).🎮
-- Basic game mechanics (turns, win/loss detection, draw detection).💻
+- Basic game mechanics (turns, win/loss detection).💻
 - Responsive UI to fit different screen sizes.
 - Simple and user-friendly interface.😃
 ## Installation
